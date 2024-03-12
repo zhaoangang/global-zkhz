@@ -1,0 +1,17 @@
+{
+  "name": "global-zkhz",
+  "version": "0.2.1",
+  "description": "vue全局组件库",
+  "private": false,
+  "author": "zkhz",
+  "license": "ISC",
+  "scripts": {
+    "build": "vue-cli-service build",
+    "serve": "vue-cli-service serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoangang/global-zkhz.git"
+  },
+  "main": "packages/index.js"
+}
