@@ -1,6 +1,6 @@
 {
   "name": "global-zkhz",
-  "version": "0.2.2.1",
+  "version": "0.2.4",
   "description": "vue全局组件库",
   "private": false,
   "author": "zkhz",
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/zhaoangang/global-zkhz.git"
   },
   "dependencies": {
-    "my-private-repo": "git+https://github.com/zhaoangang/global-zkhz.git"
+    "global-zkhz": "git+https://github.com/zhaoangang/global-zkhz.git"
   },
   "main": "packages/index.js"
 }
